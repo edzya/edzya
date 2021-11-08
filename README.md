@@ -1,4 +1,4 @@
-- �👋 Hi, I’m @edzya
+- 💥👋 Hi, I’m @edzya
 - 👀 I’m interested in machine learning and IoT
 - 🌱 I’m currently learning Python
 - 📫 Reach me @ edgars.zoltners@gmail.com
