@@ -1,6 +1,6 @@
 - 💥👋 Hi, I’m @edzya
-- 👀 I’m interested in machine learning and IoT
-- 🌱 I’m currently continously learning and working with HTML, CSS, JS & Python
+- 👀 I’m interested in IoT and software developemnt in general
+- 🌱 I’m currently continously learning and working with HTML, CSS, JS, Python and Arduino (C++)
 
 
 <!---
